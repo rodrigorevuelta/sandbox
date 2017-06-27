@@ -1,3 +1,17 @@
+#Prologo
+Este proyecto es un estudio sobre las capacidades de spring boot.
+##modulos
+###model
+La logica de acceso a la capa de datos.
+###controller
+La logica de los servicios que se exponen al cliente.
+###client
+La capa que consulta los servicios y los expone en una interfaz.
+
+#tareas pendientes
+construir la interfaz en javafx
+  http://code.makery.ch/library/javafx-8-tutorial/es/part1/
+#revisar
 https://github.com/rodrigorevuelta/docker-gossip
 
 https://github.com/spring-guides/gs-batch-processing

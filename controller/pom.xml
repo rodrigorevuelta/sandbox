@@ -4,14 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.rodrigorr</groupId>
-    <artifactId>sandbox</artifactId>
+    <artifactId>sandbox-controller</artifactId>
     <version>0.1.0</version>
-    <packaging>pom<packaging>
-
-    <modules>
-        <module>controller</module>
-        <module>web</module>
-    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -62,4 +56,5 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+
 </project>
